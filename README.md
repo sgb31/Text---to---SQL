@@ -8,3 +8,5 @@ The impact is significant: it saves time, reduces errors, and allows doctors, re
 The architecture diagrams attached will help you understand the workflow much, much better—they show step by step how user input flows through AI models and rule engines to produce the final data.
 
 Architecture Diagram:
+
+<img width="497" height="955" alt="T2SExample" src="https://github.com/user-attachments/assets/e5977022-efb3-4241-a04b-9e8ddd916154" />
